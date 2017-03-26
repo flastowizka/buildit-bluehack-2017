@@ -1,0 +1,40 @@
+{
+    "db": {
+       "host": "http://localhost:5984/"
+      ,"db_operation": "bottlecamera"
+      ,"db_business" : "bottlebusiness"
+      ,"key_business": "key_bottlebusiness"
+    }
+    ,"app": {
+       "max_garrafas" : 9
+      ,"max_impressao" : 3
+      ,"max_baia" : 5
+      ,"inicio_baia" : "E"
+    }
+    ,"pin": {
+       "pin_botao" : 0
+      ,"pin_sinalizador" : 2
+      ,"pin_porta_d" : 3
+      ,"pin_garrafa_d" : 4
+      ,"pin_porta_e" : 5
+      ,"pin_garrafa_e" : 6
+      ,"pin_manutencao" : 7
+      ,"pin_gaveta" : 8
+      ,"pin_impressora" : 9
+      ,"pin_limpeza" : 10
+      ,"tempo_pin_garrafa" : 3
+    }
+    ,"cupom": {
+       "idMaquina" : 5
+      ,"tecnico" : "Joao"
+      ,"rede" : "Extra Hipermercado"
+      ,"pdv" : "BRIGADEIRO"
+      ,"cnpj" : "47508411/0225-59"
+      ,"endereco" : "Av.brig.luiz antonio, 2013"
+      ,"cidade" : "São Paulo"
+      ,"uf" : "SP"
+      ,"cep" : "01317-002"
+      ,"codBarraTip" : "ean13"
+      ,"codBarraNum" : "2343212234510"
+    }
+}

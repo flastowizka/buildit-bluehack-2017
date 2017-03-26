@@ -1,0 +1,28 @@
+{
+  "type": "data",
+  "timestamp" : "0",
+  "printerPaper": {
+      "data": "0",
+      "msg": "controle máximo de impressão / verificação do papel da impressora"
+    },
+  "bottleApproved": {
+      "data": "0",
+      "msg": "controle do número total de garrafas aprovadas"
+    },
+  "bottleRejected": {
+      "data": "0",
+      "msg": "controle do número total de garrafas reprovadas"
+    },
+  "bottleCount": {
+      "data": "0",
+      "msg": "controle do número total de garrafas reprovadas"
+    },
+  "cupomCount": {
+      "data": "0",
+      "msg": "controle do id de cupons emitidos"
+    },
+  "bottleTray": {
+      "data": "D",
+      "msg": "controle de qual bandeja esta sendo utilizada"
+    }
+}
