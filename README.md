@@ -1,20 +1,25 @@
 # BlueHack 2017 - TJ-BOT Manoel
 
-Projeto tem como objetivo melhorar a experiência
+Objetivo: Oferecer uma experiência INCRÍVEL e INESQUECÍVEL no restaurante
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+As pessoas querem uma nova experiência no restaurante:
+- Ter um ambiente perfeito (temperatura, música, luminosidade)
+- Serem melhores atendidas
+- Compreenderem melhor a oferta dos produtos
+- Atendimento personalizado
+- Sem stress e sem fila no pagamento
 
 # Componentes IOT utilizados
 
-  - Camera
+  - Presença (Câmera)
   - Servo
   - Microfone
   - Audio
   - Sensor de presença
   - Led
   - Display
+  - Sistema de som
+  - Monitoramento de Luminosidade do ambiente *feature a ser implementada
   - Monitoramento de Temperatura ambiente *feature a ser implementada
   - Controle de Temperatura *feature a ser implementada
 
@@ -43,6 +48,6 @@ Projeto tem como objetivo melhorar a experiência
 *  Anderson dos Reis Sanchez
 *  Felipe de Moraes Lastowizka
 *  Fernando Yokoi Rodrigues
-*  Marcio Jacomé
+*  Marcio Jacome
 *  Otávio Eidy Ishara
-*  Wendell Cesar Alves
+*  Wendell Cesar da Silva Alves
