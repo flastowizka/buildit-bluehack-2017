@@ -1,0 +1,49 @@
+Solução: Manoel Bot
+Proposta: Transformar a experiência do cliente no restaurante através do monitoramento de ambiente, oferecendo atendimento personalizado.
+
+Experiências para Consumidor
+	- Sem fila, sem stress no pagamento - BOT
+	- Jukebox (pedir música para som ambiente) - IOT 
+	- Ajustar a temperatura, luminosidade e som do ambiente interno - IOT
+	- Intreter/monitorar às crianças (play for kids, netflix) - IOT e BOT
+	- Sugestão de pratos com base nos hábitos - BOT (Machine Learning)
+	- Personalização no atendimento (cada atendimento será único) - IOT e BOT (Reconhecimento de Imagem)
+		- Boas vindas personalizado - IOT
+		- Ajuste de voz
+		- Ajuste de imagem
+	- Sinalização do preparo do prato - IOT
+	- Experiências de entretenimento (cinema, teatro, museu, shows) - BOT
+		- Parcerias com empresas
+		- Pagar junto com a conta
+	- Experiências de transporte (99taxis, easytaxi, uber) - BOT
+		- Parcerias com empresas
+		- Pagar junto com a conta
+
+Benefícios para Proprietários
+	- Redução de Custos (funcionários)
+	- Ter mais tempo para aquilo que é importante pra ele
+	- Informações dos clientes (faixa etária, sexo, pratos)
+	- Big Data Analytics
+	- Fidelização dos clientes
+
+Priorização das Atividades
+	- 
+
+
+- Pensar no negócio primeiro...
+
+-- Definir quais são os requisitos de IoT (quais sensores vamos utilizar?)
+- Sensor de Temperatura
+- Sensor de Luminosidade
+- Sensor de Presença
+- JukeBox
+
+------------------------------------------------
+
+1 - Cenário Atual (Desafios)
+2 - Solução
+3 - Benefícios (Consumidor e Proprietário)
+4 - Modelo do Negócio (Monetização)
+5 - APIs do Watson que utilizamos
+6 - Agradecimento com foto do time
+
